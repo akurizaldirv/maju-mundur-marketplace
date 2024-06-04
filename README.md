@@ -5,6 +5,10 @@
 Maju Mundur is clothing market place to connect multiple merchant and customer. To be able maintan retention customer, Maju Mundur preparing reward point to customer which succeed transaction. Reward point can be trade with reward which already prepared by Maju Mundur. There is two reward, Reward A worth 20 point and Reward B worth 40 point.
 
 
+### Database Schema
+
+![ERD](https://github.com/akurizaldirv/maju-mundur-marketplace/assets/85116417/dcb20193-18fa-4883-850a-cfb97493a448)
+
 
 ## API Endpoint
 
@@ -703,25 +707,6 @@ Maju Mundur is clothing market place to connect multiple merchant and customer. 
       }
   }
   ```
-
-
-
-
-
-
-
-
-
-### Database Schema
-
-
-
-
-
-
-
-
-
 
 
 ### Tech
