@@ -714,7 +714,7 @@ Maju Mundur is clothing market place to connect multiple merchant and customer. 
 
 ### Database Schema
 
-![ERD](C:\Users\Lenovo\Documents\placement-test\BPD Jogja\ERD.png)
+
 
 
 
